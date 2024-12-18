@@ -29,7 +29,7 @@ L'application prend en charge plusieurs arguments en ligne de commande :
 - Windows 10 ou supérieur
 - .NET Framework 4.8.1 ou supérieur
 
-## Utilisation
+## 🎯Utilisation
 
 L'application prend en charge les arguments en ligne de commande suivants :
 
