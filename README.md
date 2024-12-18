@@ -19,9 +19,10 @@
 
 L'application peut être exécutée directement depuis la ligne de commande avec les arguments suivants :
 
-```bash
-.\RunAsElevated.exe -r "C:\Chemin\Vers\App.exe"
-.\RunAsElevated.exe -rPath "C:\Chemin\Vers\App.exe"
+L'application prend en charge plusieurs arguments en ligne de commande :
+
+    .\RunAsElevated.exe -r "C:\Chemin\Vers\App.exe"
+    .\RunAsElevated.exe -rPath "C:\Chemin\Vers\App.exe"
 
 ## Pré-requis
 
