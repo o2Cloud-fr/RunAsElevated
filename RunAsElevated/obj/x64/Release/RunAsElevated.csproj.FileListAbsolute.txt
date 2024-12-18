@@ -1,0 +1,11 @@
+C:\Users\MyAlien\source\repos\RunAsElevated\RunAsElevated\bin\x64\Release\RunAsElevated.exe.config
+C:\Users\MyAlien\source\repos\RunAsElevated\RunAsElevated\bin\x64\Release\RunAsElevated.exe
+C:\Users\MyAlien\source\repos\RunAsElevated\RunAsElevated\bin\x64\Release\RunAsElevated.pdb
+C:\Users\MyAlien\source\repos\RunAsElevated\RunAsElevated\obj\x64\Release\RunAsElevated.csproj.AssemblyReference.cache
+C:\Users\MyAlien\source\repos\RunAsElevated\RunAsElevated\obj\x64\Release\RunAsElevated.csproj.SuggestedBindingRedirects.cache
+C:\Users\MyAlien\source\repos\RunAsElevated\RunAsElevated\obj\x64\Release\RunAsElevated.Form1.resources
+C:\Users\MyAlien\source\repos\RunAsElevated\RunAsElevated\obj\x64\Release\RunAsElevated.Properties.Resources.resources
+C:\Users\MyAlien\source\repos\RunAsElevated\RunAsElevated\obj\x64\Release\RunAsElevated.csproj.GenerateResource.cache
+C:\Users\MyAlien\source\repos\RunAsElevated\RunAsElevated\obj\x64\Release\RunAsElevated.csproj.CoreCompileInputs.cache
+C:\Users\MyAlien\source\repos\RunAsElevated\RunAsElevated\obj\x64\Release\RunAsElevated.exe
+C:\Users\MyAlien\source\repos\RunAsElevated\RunAsElevated\obj\x64\Release\RunAsElevated.pdb
